@@ -1,6 +1,4 @@
-### Hi there 👋
-[![https://user-images.githubusercontent.com/84631911/208875343-b564f64b-a435-4030-af36-003148b703cf.svg](./assets/github-user-contribution.svg)]()
-<!--
+### Hi there 👋<!--
 **JunJon09/JunJon09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
