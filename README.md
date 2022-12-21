@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![redpanda's GitHub Banner](./assets/github-user-contribution.svg)]()
+[!(./assets/github-user-contribution.svg)]()
 <!--
 **JunJon09/JunJon09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
