@@ -1,5 +1,4 @@
 ### Hi there 👋
-https://honzaap.github.io/GithubCity/?name=JunJon09&year=2022
 https://github.com/JunJon09/assets/issues/1#issuecomment-1361091465
 <!--
 **JunJon09/JunJon09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
