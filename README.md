@@ -1,5 +1,5 @@
 ### Hi there 👋<!--
-**JunJon09/JunJon09** 
+**JunJon09** 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JunJon09&theme=dracula)
 
